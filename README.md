@@ -1,0 +1,1 @@
+# smarty-php.github.io
