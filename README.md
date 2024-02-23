@@ -1,5 +1,3 @@
-# Smarty
-
 This is the home of Smarty. Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. 
 
 It allows you to write templates, using variables, modifiers, functions and comments, like this:
