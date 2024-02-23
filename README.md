@@ -1,4 +1,4 @@
-# smarty-php.github.io
+# Smarty
 
 This is the home of Smarty. Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. 
 
